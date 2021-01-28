@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:warning: :construction:
+:warning: work in progress :construction:
 <!--
 **nou-ros/nou-ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
