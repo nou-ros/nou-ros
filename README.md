@@ -2,8 +2,8 @@
 
 :warning: Under Construction :construction:
 
-- 🔭 @Hackerrank[https://www.hackerrank.com/nouros]
-https://getmimo.com/invite/tzjps0
+- 😄 [Hackerrank](https://www.hackerrank.com/nouros)
+- 😄 [Mimo](https://getmimo.com/projects)
 
 <!--
 **nou-ros/nou-ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
