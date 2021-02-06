@@ -2,7 +2,7 @@
 
 :warning: Under Construction :construction:
 
-- 🔭 https://www.hackerrank.com/nouros
+- 🔭 @Hackerrank[https://www.hackerrank.com/nouros]
 https://getmimo.com/invite/tzjps0
 
 <!--
