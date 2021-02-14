@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:warning: Under Construction :construction:
+I am Nouros Yousuf. I am a junior software engineer. 
 
 - 😄 [Hackerrank](https://www.hackerrank.com/nouros)
 - 😄 [Codewars](https://www.codewars.com/users/nou_ros)
