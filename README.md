@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am Nouros Yousuf. I am a junior software engineer. 
-
-- 😄 [Hackerrank](https://www.hackerrank.com/nouros)
-- 😄 [Codewars](https://www.codewars.com/users/nou_ros)
+- 🌱 [Hackerrank](https://www.hackerrank.com/nouros)
+- 🌱 [Codewars](https://www.codewars.com/users/nou_ros)
 
 <!--
 **nou-ros/nou-ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
