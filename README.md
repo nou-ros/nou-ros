@@ -6,6 +6,11 @@
 <br />
 :cactus: [LeetCode](https://leetcode.com/nouros/)
 
+### I work with ..
+- Django, DRF, Python
+- Vue, JavaScript
+
+
 ### Recent digests .. 🌱
 - Vue
 - Firebase
