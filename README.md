@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-:white_flower: [Hackerrank](https://www.hackerrank.com/nouros)
-br 
-:white_flower: [Codewars](https://www.codewars.com/users/nou_ros)
+:cactus: [Hackerrank](https://www.hackerrank.com/nouros)
+
+:cactus: [Codewars](https://www.codewars.com/users/nou_ros)
 
 ### Recent digests .. 🌱
 - Vue
