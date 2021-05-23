@@ -1,4 +1,4 @@
-### Hello!!! 
+### Hello!
 
 :cactus: [HackerRank](https://www.hackerrank.com/nouros)
 <br />
