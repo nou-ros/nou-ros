@@ -1,6 +1,6 @@
 ### Hello!
+![Example screenshot](https://raw.githubusercontent.com/matyo91/matyo91/main/assets/github.gif)
 
-https://raw.githubusercontent.com/matyo91/matyo91/main/assets/github.gif
 
 :cactus: [HackerRank](https://www.hackerrank.com/nouros)
 <br />
