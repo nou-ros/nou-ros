@@ -3,7 +3,7 @@
 - 🌱 [Hackerrank](https://www.hackerrank.com/nouros)
 - 🌱 [Codewars](https://www.codewars.com/users/nou_ros)
 
-### Recent digests .. fire
+### Recent digests .. 🌱
 - Vue
 - Firebase
 
