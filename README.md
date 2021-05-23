@@ -6,11 +6,11 @@
 <br />
 :cactus: [LeetCode](https://leetcode.com/nouros/)
 
-### I work with .. :shinto_shrine:
-- Django, DRF, Python
-- Vue, JavaScript
+### I work with ... :shinto_shrine:
+- Python
+- JavaScript
 
 
-### Recent digests .. 🌱
+### Recent digests ... 🌱
 - Vue
 - Firebase
