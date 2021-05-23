@@ -3,6 +3,10 @@
 - 🌱 [Hackerrank](https://www.hackerrank.com/nouros)
 - 🌱 [Codewars](https://www.codewars.com/users/nou_ros)
 
+### Recent digests .. fire
+- Vue
+- Firebase
+
 <!--
 **nou-ros/nou-ros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
