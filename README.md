@@ -1,5 +1,5 @@
 ### Hello!
-![Example screenshot](https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e4713tse8hpm04tuhw9tfofb8t0rkbhvimf0vylq3fj&rid=giphy.gif&ct=g)
+![Example screenshot](http://gph.is/1K7BG9F)
 
 
 :cactus: [HackerRank](https://www.hackerrank.com/nouros)
