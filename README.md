@@ -1,7 +1,7 @@
 ### Hello! 👋
 
-- :cherry_blossom: [Hackerrank](https://www.hackerrank.com/nouros)
-- :cherry_blossom: [Codewars](https://www.codewars.com/users/nou_ros)
+:white_flower: [Hackerrank](https://www.hackerrank.com/nouros)
+:white_flower: [Codewars](https://www.codewars.com/users/nou_ros)
 
 ### Recent digests .. 🌱
 - Vue
