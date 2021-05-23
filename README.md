@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-:cactus: [Hackerrank](https://www.hackerrank.com/nouros)
-
-:cactus: [Codewars](https://www.codewars.com/users/nou_ros)
+:cactus: [HackerRank](https://www.hackerrank.com/nouros)
+:cactus: [CodeWars](https://www.codewars.com/users/nou_ros)
+:cactus: [LeetCode](https://leetcode.com/nouros/)
 
 ### Recent digests .. 🌱
 - Vue
