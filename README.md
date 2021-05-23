@@ -1,5 +1,5 @@
 
-![Example screenshot](https://i.pinimg.com/originals/a2/89/57/a2895778ec4f9e49cbf080c5dab425c4.jpg)
+![Example screenshot](https://i.pinimg.com/474x/a2/89/57/a2895778ec4f9e49cbf080c5dab425c4.jpg)
 
 
 :cactus: [HackerRank](https://www.hackerrank.com/nouros)
