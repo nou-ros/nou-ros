@@ -9,6 +9,8 @@
 ### I work with ... :shinto_shrine:
 - Python
 - JavaScript
+- Django
+- DRF
 
 
 ### Recent digests ... 🌱
