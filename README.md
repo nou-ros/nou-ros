@@ -16,3 +16,4 @@
 ### Recent digests ... 🌱
 - Vue
 
+From a none engineer to a null engineer. 
