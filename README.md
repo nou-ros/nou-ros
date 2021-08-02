@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Odoo
+- 🔭 I’m currently working on Python Odoo ERP
 - 🌱 I’m currently learning RHCSA, RHCE & AWSSAA (Linux Pathshala)
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with System Design and Securities knowledge.
