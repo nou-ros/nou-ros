@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - :art: Previously worked on Django, Graphene-django, DRF
 - 📫 How to reach me: nouros44@gmail.com
 - 😄 Pronouns: Learner
-- ⚡ Fun fact: Forget stuffs easily but relearn again and again. 
+- ⚡ Fun fact: Love to learn
