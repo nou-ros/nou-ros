@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with System Design and Security knowledge.
 - 💬 Ask me about System Engineering. 
 - :art: I have worked on Django, Graphene-django & DRF
-- :book: I'm testing FastAPI.
+- :book: I'm interested to learn JS framework.
 - 📫 How to reach me: nouros44@gmail.com
