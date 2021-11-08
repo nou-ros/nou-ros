@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nou-ros&theme=gotham&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nou-ros&repo=github-readme-stats)](https://github.com/nou-ros/github-readme-stats)
