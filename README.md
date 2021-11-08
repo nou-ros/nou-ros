@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - :book: I'm interested to learn JS framework.
 - 📫 How to reach me: nouros44@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nou-ros&langs_count=8)](https://github.com/nou-ros/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nou-ros&layout=compact)](https://github.com/nou-ros/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nou-ros&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
