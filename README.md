@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with DevOps and Security knowledge.
 - 💬 Ask me about System Engineering. 
 - :art: I have worked on Django, Graphene-django & DRF
-- :book: I'm interested to learn JS framework.
+- :book: I'm interested to learn React JS.
 - 📫 How to reach me: nouros44@gmail.com
 
 
