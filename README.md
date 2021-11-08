@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 -->
+![](https://komarev.com/ghpvc/?username=nou-ros)
+
 - 🔭 I’m currently working on Python Odoo ERP
 - 🌱 I’m currently learning RHCSA, RHCE & AWSSAA (Linux Pathshala)
 - 🤔 I’m looking for help with DevOps and Security knowledge.
