@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - :art: I have worked on Django, Graphene-django & DRF
 - :book: I'm interested to learn JS framework.
 - 📫 How to reach me: nouros44@gmail.com
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nou-ros)](https://git.io/streak-stats)
