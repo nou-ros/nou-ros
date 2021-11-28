@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning RHCSA, RHCE & AWSSAA (Linux Pathshala)
 - 🤔 I’m looking for help with DevOps and Security knowledge.
 - 💬 Ask me about System Engineering. 
-- :art: I have worked on Django, Graphene-django & DRF
+- :art: I have worked on Django, a bit on Graphene-django & currently on DRF
 - :book: I have started to learn React JS.
 - 📫 How to reach me: nouros44@gmail.com
 
