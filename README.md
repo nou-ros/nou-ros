@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with System Security and Design knowledge.
 - 💬 Ask me about System Engineering. 
 - :art: I have worked on Django, a bit on Graphene-django, and a bit on Odoo.
-- :book: I have started to learn Vue JS.
-- :book: I have furnishing JAVA.
+- :book: I have started to learn Vue JS & furnishing JAVA.
 - 📫 How to reach me: nouros44@gmail.com
 
 
