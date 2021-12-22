@@ -7,12 +7,13 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=nou-ros)
 
-- 🔭 I’m currently working on Python Odoo ERP
+- 🔭 I’m currently working on DRF
 - 🌱 I’m currently learning RHCSA, RHCE & AWSSAA (Linux Pathshala)
-- 🤔 I’m looking for help with DevOps and Security knowledge.
+- 🤔 I’m looking for help with System Security and Design knowledge.
 - 💬 Ask me about System Engineering. 
-- :art: I have worked on Django, a bit on Graphene-django & currently on DRF
-- :book: I have started to learn React JS.
+- :art: I have worked on Django, a bit on Graphene-django, and a bit on Odoo.
+- :book: I have started to learn Vue JS.
+- :book: I have furnishing JAVA.
 - 📫 How to reach me: nouros44@gmail.com
 
 
