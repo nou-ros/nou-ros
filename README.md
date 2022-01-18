@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
 - 🤔 I’m looking for help with System architecture, design and security.
 - 💬 Ask me about System Engineering & Software Development. 
-- :book: I have started to learn React JS & furnishing JAVA skills for spring boot.
+- :book: I have started to learn React JS & furnishing JAVA skills for spring.
 - 📫 How to reach me: nouros44@gmail.com.
 
 
