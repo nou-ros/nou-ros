@@ -7,12 +7,11 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=nou-ros)
 
-- 🔭 I’m currently working on DRF
-- 🤔 I’m looking for help with System Security and Design knowledge.
--  🌱 I’m currently learning RHCSA, RHCE & AWSSAA (Linux Pathshala).
-- 💬 Ask me about System Engineering. 
-- :art: I have worked on Django, a bit on Graphene-django, and a bit on Odoo.
-- :book: I have started to learn Vue JS & furnishing JAVA.
+- 🔭 I’m currently working on django-rest-framework.
+- 🌱 I’m currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
+- 🤔 I’m looking for help with System architecture, design and security.
+- 💬 Ask me about System Engineering & Software Development. 
+- :book: I have started to learn React JS & furnishing JAVA skills for spring boot.
 - 📫 How to reach me: nouros44@gmail.com.
 
 
