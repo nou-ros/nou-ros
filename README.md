@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-![](https://komarev.com/ghpvc/?username=nou-ros)
+<!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
 - 🔭 I’m currently working on django-rest-framework.
 - 🌱 I’m currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
