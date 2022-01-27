@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
-- 🔭 I’m currently working on django-rest-framework.
-- 🌱 I’m currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
-- 🤔 I’m looking for help with Software architecture design and security.
+- 🔭 Currently working on django-rest-framework.
+- 🌱 Currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
+- 🤔 Looking for help with Software architecture design and security.
 - 💬 Ask me about System Engineering & Software Development. 
-- :book: I have started to learn React JS & furnishing JAVA skills for spring.
-- 📫 How to reach me: nouros44@gmail.com.
+- :book: Recently started to furnish my JAVA skills for spring.
+- 📫 Reach me: nouros44@gmail.com.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nou-ros&layout=compact&langs_count=15&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
