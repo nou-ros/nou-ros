@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on django-rest-framework.
 - 🌱 Currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
-- 🤔 Looking for help with Software architecture design and security.
+- 🤔 Looking for help with software architecture design and security.
 - 💬 Ask me about System Engineering & Software Development. 
 - :book: Recently started to furnish my JAVA skills again.
 - 📫 Reach me: nouros44@gmail.com.
