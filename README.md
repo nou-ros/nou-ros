@@ -7,11 +7,13 @@ Here are some ideas to get you started:
 -->
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
-- 🔭 Currently working on django-rest-framework.
-- 🌱 Currently training for RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
+- 🔭 Currently working on python, perl & bash-scripting.
+- 🔬 During weekdays working on django-rest-framework.
+- 🌱 Weekly training on RHCSA, RHCE & AWS-SAA certification exams in Linux Pathshala.
 - 🤔 Looking for help with software architecture design and security.
 - 💬 Ask me about System Engineering & Software Development. 
-- :book: Recently started to furnish my JAVA skills again.
+- 📌 Recently started to furnish my Java skills again.
+- 📚 Upcoming learning stacks - Java Spring, React JS and many more.
 - 📫 Reach me: nouros44@gmail.com.
 
 
