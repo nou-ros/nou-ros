@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on python, perl & bash-scripting.
 - 🔬 During weekdays working on django-rest-framework.
 - 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
-- 🤔 Looking for help with software architecture design and security.
+- 🤔 Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
 - 📌 Recently furnishing my Java knowledge. 
 - 📚 Upcoming learning stacks - Java Spring, React JS and others.
