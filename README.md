@@ -8,11 +8,11 @@ Here are some ideas to get you started:
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
 - 🔭 Currently working on python, perl & bash-scripting.
-- 🔬 During weekdays working on django-rest-framework.
+- 🔬 On weekdays working on django-rest-framework.
 - 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
 - 🤔 Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
-- 📌 Recently furnishing my Java knowledge. 
+- 📌 Currently furnishing my Java basics. 
 - 📚 Upcoming learning stacks - Java Spring, React JS and others.
 - 📫 Reach me: nouros44@gmail.com.
 
