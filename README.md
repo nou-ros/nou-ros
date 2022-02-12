@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
 - 📌 Currently furnishing my Java basics. 
-- :sweat_smile: Prolonged learngin statck - React
+- :sweat_smile: Prolonged learning statck - React
 - 📚 Upcoming learning stacks - Java Spring.
 - 📫 Reach me: nouros44@gmail.com.
 
