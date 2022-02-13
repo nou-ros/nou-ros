@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 🔭 Currently working on python & bash-scripting.
 - 🔬 On weekdays working on django-rest-framework.
 - 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
-- 🤔 Looking for help with System Architechture and System Security knowledge.
+- ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
 - 📌 Currently furnishing my Java basics. 
-- :sweat_smile: Prolonged learning stacks - React
+- 😅 Prolonged learning stacks - React
 - 📚 Upcoming learning stacks - Java Spring.
 - 📫 Reach me: nouros44@gmail.com.
 
