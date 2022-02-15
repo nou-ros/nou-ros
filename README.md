@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
-- 🔭 Currently working on python & bash-scripting.
+- 🔭 Currently working with Python, bash-scripting & Perl.
 - 🔬 On weekdays working on django-rest-framework.
 - 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
 - ✋ Looking for help with System Architechture and System Security knowledge.
