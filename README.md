@@ -8,15 +8,14 @@ Here are some ideas to get you started:
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
 - 🔭 Currently working with Python, Perl & bash-scripting.
-<!-- - 🔬 On weekdays working on django-rest-framework. -->
 - 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
 - ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
 - 📌 Periodically furnishing Java basics. 
-- 😅 Prolonged learning stacks - React
+- 😅 Prolonged learning stacks - React.
 - 📚 Upcoming learning stacks - Java Spring.
 - 📫 Reach me: nouros44@gmail.com.
-
+<!-- - 🔬 On weekdays working on django-rest-framework. -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nou-ros&layout=compact&langs_count=15&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
