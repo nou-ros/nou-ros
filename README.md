@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
 - ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
-- 📌 Periodically furnishing Java basics. 
 - 😅 Prolonged learning stacks - React.
 - 📚 Upcoming learning stacks - Java Spring.
 - 📫 Reach me: nouros44@gmail.com.
