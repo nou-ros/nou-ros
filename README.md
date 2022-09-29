@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
 - 🔭 Currently working with Python & shell scripting.
-- 🌱 Weekly training for RHCSA, RHCE & AWS-SAA in Linux Pathshala.
+- 🌱 Weekly training for RHCE(ansible) & AWS-SAA in Linux Pathshala.
 - ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Engineering & Software Development.
 - 😅 Prolonged learning stacks - React.
