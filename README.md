@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🌱 Weekly training for RHCE(ansible) & AWS-SAA in Linux Pathshala.
 - ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Administration & Software Development.
-- 😅 Prolonged learning stacks - React.
 - 📚 Upcoming learning stacks - Java Spring.
 - 📫 Reach me: nouros44@gmail.com.
 <!-- - 🔬 On weekdays working on django-rest-framework. -->
