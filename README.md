@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- ![](https://komarev.com/ghpvc/?username=nou-ros) -->
 
 - 🔭 Currently working with devops related tasks.
-- 🌱 Preparing for RHCE(ansible) exam.
+- 🌱 RHCSA & RHCE certified
 - ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Administration & Software Development.
 - 📚 Upcoming learning stacks - Java Spring.
