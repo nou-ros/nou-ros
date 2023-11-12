@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🌱 RHCSA & RHCE certified
 - ✋ Looking for help with System Architechture and System Security knowledge.
 - 💬 Ask me about System Administration & Software Development.
-- 📚 Upcoming learning stacks - Java Spring.
 - 📫 Reach me: nouros44@gmail.com.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nou-ros&layout=compact&langs_count=15&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
